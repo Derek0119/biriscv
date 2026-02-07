@@ -7,6 +7,8 @@ module biriscv_trace_sim
     ,input  [31:0]                opcode_i
 );
 
+
+
 //-----------------------------------------------------------------
 // get_regname_str: Convert register number to string
 //-----------------------------------------------------------------
