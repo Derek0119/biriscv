@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make -f Makefile.bp)",
+      "Bash(make -f Makefile.bp clean)",
+      "Bash(./bp_test)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

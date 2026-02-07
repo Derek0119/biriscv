@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(readelf -h test.elf)",
+      "Bash(./obj_dir/Vriscv_tcm_top -f test.elf -c 10000)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

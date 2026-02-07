@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout 15 git push -v origin master)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

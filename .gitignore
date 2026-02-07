@@ -1,0 +1,17 @@
+tb/tb_tcm/obj_dir
+tb/tb_tcm/.claude
+tb/tb_tcm/*.vcd
+tb/tb_tcm/compile_commands.json
+
+tb/tb_top/obj_dir
+tb/tb_top/obj_verilated
+tb/tb_top/.claude
+tb/tb_top/*.txt
+tb/tb_top/*.elf
+tb/tb_top/*.vcd
+tb/tb_top/sysc_wave.vcd
+tb/tb_top/compile_commands.json
+
+tb/tb_top/verilated
+
+/tb/tb_top/obj
